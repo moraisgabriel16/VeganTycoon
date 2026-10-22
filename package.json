@@ -1,0 +1,8 @@
+{
+  "name": "raiz-vegan-tycoon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Um tycoon de restaurante vegano em pixel art, sem etapa de compilação.",
+  "scripts": { "start": "node server.cjs", "test": "node tests/smoke.cjs" },
+  "devDependencies": { "playwright": "^1.56.0" }
+}
